@@ -1,0 +1,12 @@
+{
+  "name": "iptv-proxy",
+  "version": "1.0.0",
+  "description": "Simple proxy that forwards IPTV stream requests with a VLC User-Agent header",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
